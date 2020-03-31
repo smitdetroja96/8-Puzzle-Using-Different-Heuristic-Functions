@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/puzzle_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PuzzleActivity">
+
+
+    <ImageView
+        android:id="@+id/ivPhoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <Button
+        android:id="@+id/photo_button"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="dispatchTakePictureIntent"
+        android:text="@string/take_photo_button_label" />
+
+    <Button
+        android:id="@+id/shuffle_button"
+        android:layout_width="127dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/photo_button"
+        android:layout_toEndOf="@+id/photo_button"
+        android:layout_toRightOf="@+id/photo_button"
+        android:onClick="shuffleImage"
+        android:text="@string/shuffle_button_label" />
+
+    <Button
+        android:id="@+id/solve_button"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@+id/shuffle_button"
+        android:layout_toRightOf="@+id/shuffle_button"
+        android:onClick="solve"
+        android:text="@string/solve_button_label" />
+
+</RelativeLayout>

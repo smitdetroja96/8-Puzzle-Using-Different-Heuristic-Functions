@@ -1,0 +1,1080 @@
+5 4 6 
+0 1 7 
+8 3 2 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.000998s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000985s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000995s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000953s
+
+0 3 6 
+7 5 4 
+2 8 1 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001086s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000969s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000954s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000937s
+
+6 0 7 
+8 2 5 
+1 3 4 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001733s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.001544s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.001515s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.001604s
+
+2 8 0 
+3 1 7 
+5 4 6 
+
+Euclidean
+Steps      = 22
+Iterations = 991
+Time       = 0.099650s
+
+Manhattan
+Steps      = 22
+Iterations = 571
+Time       = 0.041228s
+
+Hamming
+Steps      = 22
+Iterations = 7965
+Time       = 0.637041s
+
+Inversion
+Steps      = 22
+Iterations = 1384
+Time       = 0.117471s
+
+0 1 7 
+3 4 8 
+2 5 6 
+
+Euclidean
+Steps      = 24
+Iterations = 2601
+Time       = 0.237117s
+
+Manhattan
+Steps      = 24
+Iterations = 1078
+Time       = 0.077999s
+
+Hamming
+Steps      = 24
+Iterations = 18807
+Time       = 1.622907s
+
+Inversion
+Steps      = 24
+Iterations = 4211
+Time       = 0.386833s
+
+3 0 1 
+7 4 8 
+5 2 6 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.000950s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000940s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000950s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000976s
+
+2 0 7 
+4 8 1 
+3 6 5 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.003003s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.003531s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.003260s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.002865s
+
+8 2 7 
+4 0 6 
+3 5 1 
+
+Euclidean
+Steps      = 28
+Iterations = 16111
+Time       = 1.719098s
+
+Manhattan
+Steps      = 28
+Iterations = 3477
+Time       = 0.275799s
+
+Hamming
+Steps      = 28
+Iterations = 106018
+Time       = 10.004895s
+
+Inversion
+Steps      = 28
+Iterations = 10734
+Time       = 1.118519s
+
+4 1 2 
+6 0 8 
+5 7 3 
+
+Euclidean
+Steps      = 14
+Iterations = 56
+Time       = 0.005389s
+
+Manhattan
+Steps      = 14
+Iterations = 39
+Time       = 0.003184s
+
+Hamming
+Steps      = 14
+Iterations = 272
+Time       = 0.018617s
+
+Inversion
+Steps      = 14
+Iterations = 220
+Time       = 0.017850s
+
+8 0 5 
+1 2 6 
+3 7 4 
+
+Euclidean
+Steps      = 25
+Iterations = 5099
+Time       = 0.489806s
+
+Manhattan
+Steps      = 25
+Iterations = 2206
+Time       = 0.166798s
+
+Hamming
+Steps      = 25
+Iterations = 25910
+Time       = 2.267468s
+
+Inversion
+Steps      = 25
+Iterations = 8304
+Time       = 0.840155s
+
+8 5 3 
+1 0 2 
+6 7 4 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.002870s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.002633s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.001900s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.002185s
+
+7 5 6 
+3 2 4 
+8 0 1 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001003s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.001031s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.001235s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.001231s
+
+3 7 2 
+6 8 5 
+4 0 1 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.000990s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000969s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000945s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000966s
+
+2 8 4 
+1 7 5 
+0 6 3 
+
+Euclidean
+Steps      = 24
+Iterations = 2754
+Time       = 0.258138s
+
+Manhattan
+Steps      = 24
+Iterations = 795
+Time       = 0.057205s
+
+Hamming
+Steps      = 24
+Iterations = 18756
+Time       = 1.617644s
+
+Inversion
+Steps      = 24
+Iterations = 2505
+Time       = 0.228453s
+
+4 3 1 
+5 7 8 
+0 2 6 
+
+Euclidean
+Steps      = 20
+Iterations = 638
+Time       = 0.054293s
+
+Manhattan
+Steps      = 20
+Iterations = 323
+Time       = 0.021690s
+
+Hamming
+Steps      = 20
+Iterations = 3640
+Time       = 0.272413s
+
+Inversion
+Steps      = 20
+Iterations = 842
+Time       = 0.070028s
+
+3 0 2 
+7 6 8 
+4 1 5 
+
+Euclidean
+Steps      = 19
+Iterations = 417
+Time       = 0.034969s
+
+Manhattan
+Steps      = 19
+Iterations = 178
+Time       = 0.012719s
+
+Hamming
+Steps      = 19
+Iterations = 2441
+Time       = 0.193770s
+
+Inversion
+Steps      = 19
+Iterations = 455
+Time       = 0.038839s
+
+5 1 0 
+7 3 4 
+6 8 2 
+
+Euclidean
+Steps      = 24
+Iterations = 3104
+Time       = 0.285868s
+
+Manhattan
+Steps      = 24
+Iterations = 1623
+Time       = 0.120893s
+
+Hamming
+Steps      = 24
+Iterations = 13844
+Time       = 1.153884s
+
+Inversion
+Steps      = 24
+Iterations = 2836
+Time       = 0.259820s
+
+8 4 0 
+3 6 7 
+2 1 5 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001006s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000950s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.001241s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.001137s
+
+5 7 2 
+8 3 0 
+6 1 4 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001102s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000910s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000917s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000911s
+
+3 0 2 
+1 8 4 
+5 7 6 
+
+Euclidean
+Steps      = 21
+Iterations = 1323
+Time       = 0.115022s
+
+Manhattan
+Steps      = 21
+Iterations = 674
+Time       = 0.047702s
+
+Hamming
+Steps      = 21
+Iterations = 5968
+Time       = 0.469138s
+
+Inversion
+Steps      = 21
+Iterations = 2663
+Time       = 0.236776s
+
+1 5 7 
+4 8 3 
+2 6 0 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001242s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000929s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.001007s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000908s
+
+7 0 1 
+2 5 6 
+4 8 3 
+
+Euclidean
+Steps      = 23
+Iterations = 2955
+Time       = 0.286339s
+
+Manhattan
+Steps      = 23
+Iterations = 1589
+Time       = 0.116908s
+
+Hamming
+Steps      = 23
+Iterations = 11689
+Time       = 0.966185s
+
+Inversion
+Steps      = 23
+Iterations = 1853
+Time       = 0.163950s
+
+5 4 3 
+8 2 7 
+0 1 6 
+
+Euclidean
+Steps      = 20
+Iterations = 725
+Time       = 0.064795s
+
+Manhattan
+Steps      = 20
+Iterations = 492
+Time       = 0.035268s
+
+Hamming
+Steps      = 20
+Iterations = 2691
+Time       = 0.199467s
+
+Inversion
+Steps      = 22
+Iterations = 1076
+Time       = 0.094602s
+
+4 3 1 
+5 6 8 
+0 7 2 
+
+Euclidean
+Steps      = 16
+Iterations = 115
+Time       = 0.027098s
+
+Manhattan
+Steps      = 16
+Iterations = 88
+Time       = 0.008280s
+
+Hamming
+Steps      = 16
+Iterations = 511
+Time       = 0.036579s
+
+Inversion
+Steps      = 16
+Iterations = 236
+Time       = 0.018688s
+
+4 5 1 
+6 3 8 
+2 7 0 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.002153s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.002173s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.001791s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.001518s
+
+0 7 6 
+1 2 8 
+5 3 4 
+
+Euclidean
+Steps      = 24
+Iterations = 3114
+Time       = 0.294715s
+
+Manhattan
+Steps      = 24
+Iterations = 1262
+Time       = 0.091384s
+
+Hamming
+Steps      = 24
+Iterations = 18879
+Time       = 1.688609s
+
+Inversion
+Steps      = 24
+Iterations = 2271
+Time       = 0.205345s
+
+3 2 8 
+1 5 0 
+7 6 4 
+
+Euclidean
+Steps      = 19
+Iterations = 522
+Time       = 0.046357s
+
+Manhattan
+Steps      = 19
+Iterations = 354
+Time       = 0.024663s
+
+Hamming
+Steps      = 19
+Iterations = 2333
+Time       = 0.171775s
+
+Inversion
+Steps      = 19
+Iterations = 744
+Time       = 0.062233s
+
+3 2 8 
+0 1 6 
+7 5 4 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.000910s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000904s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000969s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.001093s
+
+0 7 3 
+4 6 1 
+8 5 2 
+
+Euclidean
+Steps      = 22
+Iterations = 1450
+Time       = 0.128096s
+
+Manhattan
+Steps      = 22
+Iterations = 800
+Time       = 0.058014s
+
+Hamming
+Steps      = 22
+Iterations = 8839
+Time       = 0.710700s
+
+Inversion
+Steps      = 22
+Iterations = 877
+Time       = 0.076681s
+
+4 0 2 
+6 8 1 
+5 3 7 
+
+Euclidean
+Steps      = 25
+Iterations = 4883
+Time       = 0.470811s
+
+Manhattan
+Steps      = 25
+Iterations = 2853
+Time       = 0.225291s
+
+Hamming
+Steps      = 25
+Iterations = 25826
+Time       = 2.256121s
+
+Inversion
+Steps      = 25
+Iterations = 9819
+Time       = 0.987728s
+
+6 4 1 
+3 5 8 
+0 2 7 
+
+Euclidean
+Steps      = 24
+Iterations = 1906
+Time       = 0.190990s
+
+Manhattan
+Steps      = 24
+Iterations = 720
+Time       = 0.052625s
+
+Hamming
+Steps      = 24
+Iterations = 13159
+Time       = 1.090255s
+
+Inversion
+Steps      = 24
+Iterations = 3474
+Time       = 0.335027s
+
+7 1 3 
+6 0 2 
+5 4 8 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001063s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.001142s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.001101s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.001072s
+
+0 7 3 
+1 6 2 
+4 8 5 
+
+Euclidean
+Steps      = 18
+Iterations = 411
+Time       = 0.033958s
+
+Manhattan
+Steps      = 18
+Iterations = 260
+Time       = 0.017364s
+
+Hamming
+Steps      = 18
+Iterations = 1233
+Time       = 0.088115s
+
+Inversion
+Steps      = 18
+Iterations = 625
+Time       = 0.051951s
+
+2 8 6 
+4 3 7 
+1 5 0 
+
+Euclidean
+Steps      = 22
+Iterations = 1476
+Time       = 0.146957s
+
+Manhattan
+Steps      = 22
+Iterations = 708
+Time       = 0.050652s
+
+Hamming
+Steps      = 22
+Iterations = 8476
+Time       = 0.678697s
+
+Inversion
+Steps      = 22
+Iterations = 913
+Time       = 0.078661s
+
+7 4 3 
+2 0 6 
+1 5 8 
+
+Euclidean
+Steps      = 16
+Iterations = 181
+Time       = 0.014556s
+
+Manhattan
+Steps      = 16
+Iterations = 167
+Time       = 0.010927s
+
+Hamming
+Steps      = 16
+Iterations = 618
+Time       = 0.042858s
+
+Inversion
+Steps      = 16
+Iterations = 67
+Time       = 0.005367s
+
+3 4 6 
+1 7 5 
+0 8 2 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001010s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.001001s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000974s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000964s
+
+1 7 5 
+4 3 8 
+0 6 2 
+
+Euclidean
+Steps      = 22
+Iterations = 1312
+Time       = 0.118424s
+
+Manhattan
+Steps      = 22
+Iterations = 827
+Time       = 0.059298s
+
+Hamming
+Steps      = 22
+Iterations = 6013
+Time       = 0.468358s
+
+Inversion
+Steps      = 22
+Iterations = 2082
+Time       = 0.188382s
+
+8 6 4 
+2 1 3 
+0 5 7 
+
+Euclidean
+Steps      = 24
+Iterations = 2514
+Time       = 0.231693s
+
+Manhattan
+Steps      = 24
+Iterations = 755
+Time       = 0.052992s
+
+Hamming
+Steps      = 24
+Iterations = 19888
+Time       = 1.719716s
+
+Inversion
+Steps      = 24
+Iterations = 2741
+Time       = 0.251413s
+
+5 2 8 
+3 0 1 
+7 4 6 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001013s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.000929s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000989s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000966s
+
+5 2 1 
+7 3 6 
+8 4 0 
+
+Euclidean
+Steps      = 20
+Iterations = 791
+Time       = 0.069863s
+
+Manhattan
+Steps      = 20
+Iterations = 366
+Time       = 0.024213s
+
+Hamming
+Steps      = 20
+Iterations = 2773
+Time       = 0.206902s
+
+Inversion
+Steps      = 20
+Iterations = 721
+Time       = 0.060248s
+
+4 5 2 
+0 6 1 
+3 7 8 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.003456s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.002996s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.003145s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.004047s
+
+6 3 1 
+0 7 2 
+4 5 8 
+
+Euclidean
+Steps      = 21
+Iterations = 1071
+Time       = 0.117799s
+
+Manhattan
+Steps      = 21
+Iterations = 761
+Time       = 0.054430s
+
+Hamming
+Steps      = 21
+Iterations = 5355
+Time       = 0.412883s
+
+Inversion
+Steps      = 21
+Iterations = 1594
+Time       = 0.138881s
+
+5 3 7 
+8 1 0 
+4 6 2 
+
+Euclidean
+Steps      = 21
+Iterations = 842
+Time       = 0.073547s
+
+Manhattan
+Steps      = 21
+Iterations = 412
+Time       = 0.028557s
+
+Hamming
+Steps      = 21
+Iterations = 5275
+Time       = 0.408285s
+
+Inversion
+Steps      = 23
+Iterations = 1040
+Time       = 0.090442s
+
+3 6 8 
+5 7 2 
+4 1 0 
+
+Euclidean
+Steps      = -1
+Iterations = 0
+Time       = 0.001054s
+
+Manhattan
+Steps      = -1
+Iterations = 0
+Time       = 0.001153s
+
+Hamming
+Steps      = -1
+Iterations = 0
+Time       = 0.000959s
+
+Inversion
+Steps      = -1
+Iterations = 0
+Time       = 0.000973s
+
+3 7 5 
+8 6 1 
+0 4 2 
+
+Euclidean
+Steps      = 22
+Iterations = 762
+Time       = 0.065081s
+
+Manhattan
+Steps      = 22
+Iterations = 365
+Time       = 0.026311s
+
+Hamming
+Steps      = 22
+Iterations = 6135
+Time       = 0.475082s
+
+Inversion
+Steps      = 22
+Iterations = 918
+Time       = 0.080755s
+

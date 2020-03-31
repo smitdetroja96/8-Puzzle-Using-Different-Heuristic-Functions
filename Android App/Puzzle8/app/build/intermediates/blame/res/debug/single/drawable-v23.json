@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/brijesh/AndroidStudioProjects/Puzzle8/C:\\Users\\smit\\AndroidStudioProjects\\Puzzle8_starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/home/brijesh/AndroidStudioProjects/Puzzle8/C:\\Users\\smit\\AndroidStudioProjects\\Puzzle8_starter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/brijesh/AndroidStudioProjects/Puzzle8/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/brijesh/AndroidStudioProjects/Puzzle8/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
